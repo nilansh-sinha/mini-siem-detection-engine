@@ -32,4 +32,5 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed design.
 See [MITRE_MAPPING.md](MITRE_MAPPING.md).
 
 ## ⚠️ Disclaimer
-This project is an educational detection-engineering simulation. The "attacks" are simulated locally and do not target external systems.
+🚨 This project simulates how real SOC teams design, test, and validate detection logic
+using detection-as-code, correlation, and MITRE ATT&CK mapping.
